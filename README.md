@@ -69,6 +69,9 @@ telco-customer-churn-analysis/
 │   ├── Churn_Analysis.png                    # Churn Analysis dashboard screenshot
 │   └── Revenue_Impact_of_Customer_Churn.png  # Revenue Impact dashboard screenshot
 │
+├── presentations/
+│   └── Telco_Customer_Churn_Analysis_Presentation.pdf  # Project summary presentation
+│
 ├── README.md
 ├── requirements.txt
 └── LICENSE
