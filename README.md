@@ -104,6 +104,14 @@ This dashboard focuses on the financial impact of churn and shows total revenue,
 
 ---
 
+## 📎 Project Presentation
+
+A PDF summary presentation of this project is available here:
+
+[View Project Presentation](presentations/Telco_Customer_Churn_Analysis_Presentation.pdf)
+
+---
+
 ## 📂 Dataset
 
 - **Source:** Telecom customer dataset cleaned for analysis
