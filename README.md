@@ -170,6 +170,14 @@ A PDF summary presentation of this project is available here:
 
 ## ▶️ How to Run This Project
 
+### 🔗 **Repository**
+
+Clone the repository and move into the project folder:
+
+```bash
+git clone https://github.com/aditya-pandey-data/telco-customer-churn-analysis.git
+cd telco-customer-churn-analysis
+
 ### Python Data Cleaning
 
 ```bash
