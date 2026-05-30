@@ -177,8 +177,9 @@ Clone the repository and move into the project folder:
 ```bash
 git clone https://github.com/aditya-pandey-data/telco-customer-churn-analysis.git
 cd telco-customer-churn-analysis
+```
 
-### Python Data Cleaning
+### 🧹 **Python Data Cleaning**
 
 ```bash
 pip install -r requirements.txt
