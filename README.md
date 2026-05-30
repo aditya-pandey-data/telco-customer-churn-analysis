@@ -201,6 +201,21 @@ data/cleaned_telco_churn.csv
 
 ---
 
+## ✅ Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- SQL querying and KPI calculation
+- Customer churn analysis
+- Revenue-loss analysis
+- Customer segmentation
+- Dashboard design in Tableau
+- Business insight generation
+- Data storytelling
+- Portfolio project documentation
+
+---
+
 ## 👤 Author
 
 **Aditya Pandey**  
