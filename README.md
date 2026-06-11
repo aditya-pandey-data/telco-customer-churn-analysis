@@ -111,7 +111,7 @@ This dashboard focuses on the financial impact of churn and shows total revenue,
 
 A PDF summary presentation of this project is available here:
 
-[View Project Presentation](presentations/Telco_Customer_Churn_Analysis_Presentation.pdf)
+[View Project Presentation](presentation/Telco_Customer_Churn_Analysis_Presentation.pdf)
 
 ---
 
