@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Churn Analysis
+# 📡 Customer Churn Analysis & Revenue Impact Modelling
 
 An end-to-end **data analytics portfolio project** analyzing telecom customer churn using **Python**, **SQL**, and **Tableau**.
 
