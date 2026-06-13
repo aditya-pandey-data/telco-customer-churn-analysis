@@ -4,6 +4,10 @@ An end-to-end **data analytics portfolio project** analyzing telecom customer ch
 
 This project covers the full analysis workflow: data cleaning, SQL-based business analysis, churn KPI calculation, revenue-loss analysis, customer segmentation, dashboard visualization, and business recommendations.
 
+![Python](https://img.shields.io/badge/Python-Data_Cleaning-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Analysis-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+
 ---
 
 ## 📌 Project Overview
