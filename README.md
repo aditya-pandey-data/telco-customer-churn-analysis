@@ -125,7 +125,7 @@ telco-customer-churn-analysis/
 ## 🔄 Project Workflow
 
 <p align="center">
-  <img src="images/churn_workflow.png" alt="Project Workflow Diagram" width="900">
+  <img src="images/churn_workflow-2.png" alt="Project Workflow Diagram" width="900">
 </p>
 
 
