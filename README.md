@@ -121,17 +121,81 @@ telco-customer-churn-analysis/
 ```
 
 ---
-
 ## 🔄 Project Workflow
 
+**Click any step below to jump straight to that part of the repo.**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+<a href="data/raw_telco.csv">
+<img src="https://img.shields.io/badge/1️⃣_Raw_Data-Telecom_Dataset-1f6feb?style=for-the-badge" alt="Raw Data"/>
+</a>
+
+</td>
+<td align="center">➡️</td>
+<td align="center" width="200">
+
+<a href="notebooks/data_cleaning.ipynb">
+<img src="https://img.shields.io/badge/2️⃣_Python-Data_Cleaning-2ea043?style=for-the-badge&logo=python&logoColor=white" alt="Python Cleaning"/>
+</a>
+
+</td>
+<td align="center">➡️</td>
+<td align="center" width="200">
+
+<a href="data/cleaned_telco_churn.csv">
+<img src="https://img.shields.io/badge/3️⃣_Cleaned_Dataset-Analysis_Ready-d29922?style=for-the-badge" alt="Cleaned Dataset"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="200">
+
+<a href="sql/churn_analysis.sql">
+<img src="https://img.shields.io/badge/4️⃣_SQL-Churn_%26_Revenue_KPIs-a371f7?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Analysis"/>
+</a>
+
+</td>
+<td align="center">➡️</td>
+<td align="center" width="200">
+
+<a href="tableau/telco_churn_dashboard.twb">
+<img src="https://img.shields.io/badge/5️⃣_Tableau-Dashboards-e8590c?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Dashboards"/>
+</a>
+
+</td>
+<td align="center">➡️</td>
+<td align="center" width="200">
+
+<a href="presentations/Telco_Customer_Churn_Analysis_Presentation.pdf">
+<img src="https://img.shields.io/badge/6️⃣_Insights-Presentation-f85149?style=for-the-badge" alt="Insights and Presentation"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ### 1️⃣ Data Cleaning — *Python*
+
 - Cleaned and standardized the raw telecom customer dataset
 - Handled missing values, inconsistent categories, and data types
 - Engineered churn and revenue-loss flags for downstream analysis
 - Exported the cleaned dataset for SQL and Tableau
 
 ### 2️⃣ SQL Analysis — *MySQL*
+
 Queried the cleaned dataset to evaluate:
+
 - Churn rate by contract type, internet type, age group, and satisfaction score
 - Top churn categories and churn reasons
 - Total revenue, revenue lost, and revenue loss percentage
@@ -140,6 +204,7 @@ Queried the cleaned dataset to evaluate:
 - High-CLTV churned customers for win-back targeting
 
 ### 3️⃣ Dashboard Design — *Tableau*
+
 Built two focused dashboards covering churn behavior and financial impact (see below).
 
 ---
