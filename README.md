@@ -10,7 +10,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Analysis-4479A1?logo=mysql&logoColor=white)](#)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 [Overview](#-project-overview) •
 [Dashboards](#-dashboards) •
