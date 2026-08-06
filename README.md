@@ -220,7 +220,7 @@ The financial side of churn — total revenue, revenue lost, overall revenue los
 
 ## 📎 Project Presentation
 
-📑 [View the full project presentation (PDF)](presentations/Telco_Customer_Churn_Analysis_Presentation.pdf)
+📑 [View the full project presentation (PDF)](presentation/Telco_Customer_Churn_Analysis_Presentation.pdf)
 
 ---
 
